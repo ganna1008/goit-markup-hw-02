@@ -27,7 +27,6 @@ body {
 
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
-  line-height: 1.71;
   letter-spacing: 0.03em;
 }
 
@@ -168,6 +167,10 @@ body {
   text-transform: uppercase;
 }
 
+.feauters-text {
+  line-height: 1.71;
+}
+
 /* Team  */
 .team {
   background-color: var(--dark-section-bgc);
@@ -200,6 +203,7 @@ body {
 .footer-list-adress {
   color: var(--light-title-text-color);
   font-style: normal;
+  line-height: 1.71;
 }
 
 .footer-list-adress:hover,
@@ -210,6 +214,7 @@ body {
 .footer-list-contacts {
   color: var(--adress-contacts);
   font-style: normal;
+  line-height: 1.71;
 }
 
 .footer-list-contacts:hover,
